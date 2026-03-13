@@ -6,7 +6,7 @@ Interactive Excel dashboard analyzing 9,994 US retail orders to uncover sales tr
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](Screenshots/dashboard_screenshot.png)
+![Dashboard](screenshots/dashboard_screenshot.png)
 
 ---
 
@@ -37,7 +37,7 @@ Comprehensive sales analysis dashboard built in Excel using Power Query ETL and 
 
 Performed comprehensive ETL process with **25+ transformation steps:**
 
-![Power Query Steps](Screenshots/power_query_steps.png)
+![Power Query Steps](screenshots/power_query_steps.png)
 
 ### Key Transformations:
 1. **Data Type Corrections**
@@ -167,12 +167,12 @@ Analyze **return reasons by category**, improve product information, and conside
 ## 📂 Repository Structure
 
 ```
-├── Dashboard/
-│   └── Superstore_Sales_Dashboard.xlsx    # Main Excel file with dashboard
-├── Screenshots/
-│   ├── dashboard_screenshot.png           # Dashboard overview
-│   └── power_query_steps.png              # ETL transformation steps
-└── README.md                              # Project documentation
+├── screenshots
+│   ├── dashboard_screenshot.png
+│   └── power_query_steps.png
+│
+├── SuperStore_Sales_Dashboard.xlsx
+└── README.md                             # Project documentation
 ```
 
 ## 🚀 How to Use
