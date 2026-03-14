@@ -216,6 +216,8 @@ Aspiring Data Analyst | SQL | Excel | Power BI
 
 --- 
 
+**⭐ If you found this project helpful, please consider giving it a star!**
+
 *Project completed: March 2026*
 
 
